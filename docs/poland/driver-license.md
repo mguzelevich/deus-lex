@@ -5,11 +5,11 @@
 - борьба с белорусской бюрократией
 - борьба с польской бюрократией
 
-https://in-poland.com/zamena-voditelskikh-prav-na-polskie/
+[https://in-poland.com/zamena-voditelskikh-prav-na-polskie/](https://in-poland.com/zamena-voditelskikh-prav-na-polskie/)
 
 ## получение справки о выдаче прав в посольстве РБ
 
-[Аб пацвярджэнні факту выдачы беларускім кампетэнтным органам вадзіцельскага пасведчання](http://poland.mfa.gov.by/be/consular_issues/embcon/pvu/) 
+[Аб пацвярджэнні факту выдачы беларускім кампетэнтным органам вадзіцельскага пасведчання](http://poland.mfa.gov.by/be/consular_issues/embcon/pvu/)
 
 необходимые документы:
 
@@ -20,39 +20,34 @@ https://in-poland.com/zamena-voditelskikh-prav-na-polskie/
 
 оплату делал банковским переводом
 
-```
-Bank Millenium
-ul. Stanisława Żaryna 2A, 02-593 Warszawa
-Rachunek: 86 1160 2202 0000 0001 4261 8744
-Ambasada Republiki Białoruś
-ul. Wiertnicza 58 02-952 Warszawa
-Tytuł: BY і прозвішча заяўніка ў лацінскай транслітарацыі як указана ў вадзіцельскім пасведчанні.
-
-```
+> Bank Millenium
+> ul. Stanisława Żaryna 2A, 02-593 Warszawa
+> Rachunek: 86 1160 2202 0000 0001 4261 8744
+> Ambasada Republiki Białoruś
+> ul. Wiertnicza 58 02-952 Warszawa
+> Tytuł: BY і прозвішча заяўніка ў лацінскай транслітарацыі як указана ў вадзіцельскім пасведчанні.
 
 документы отправлял почтой по адресу
 
-```
-Ambasada Republiki Białoruś
-ul. Wiertnicza, 58, 02-952, Warszawa.
-```
+> Ambasada Republiki Białoruś
+> ul. Wiertnicza, 58, 02-952, Warszawa.
 
 в качестве адреса для ответа указал адрес проживания (встречаются рекомендации сразу указать адрес ужонда, но встречаются и отзывы что концов потом не найти)
 
 отправил 2022-06-26
 
-
 ## замена прав
 
 1. Идём в ужонд дельницы по месту жительства, талончик можно забронировать заранее, можно по живой очереди.
 2. Далее диалог примерно такой :
-	- Dzień dobry! Chciałabym założyć profil PKK.
-	- Dzień dobry. To niemożliwe, musi Pani najpierw wymienić prawo jazdy z białoruskiego na polskie.
-	- To znaczy, że ja nawet nie mogę skończyć kurs na kategorie …. ?
-	- Nie.
-	- Dobrze, to zaczynamy. Jakie dokumenty muszę podać ?
+    - Dzień dobry! Chciałabym założyć profil PKK.
+    - Dzień dobry. To niemożliwe, musi Pani najpierw wymienić prawo jazdy z białoruskiego na polskie.
+    - To znaczy, że ja nawet nie mogę skończyć kurs na kategorie …. ?
+    - Nie.
+    - Dobrze, to zaczynamy. Jakie dokumenty muszę podać ?
 
 Далее по списку:
+
 - оригинал ВУ
 - его присяжный перевод
 - справка о замельдовании
@@ -60,4 +55,4 @@ ul. Wiertnicza, 58, 02-952, Warszawa.
 - фото на новые права
 - карта побыта/паспорт
 - квитанция об оплате 100.50 злотых ( оплачиваете там же в ужонде).
-- справка из посольства 
+- справка из посольства

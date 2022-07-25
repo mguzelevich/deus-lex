@@ -1,0 +1,24 @@
+site_name: "wiki программиста-экспата"
+site_description: "Различные tips/tricks по решению юридических проблем и легализации для релокантов и не только"
+site_url: https://mguzelevich.github.io/deus-lex/
+repo_url: https://github.com/mguzelevich/deus-lex
+
+theme:
+ name: material
+
+# nav:
+#   - Hоme: index.md
+#   # - Belarus: belarus/README.md
+#   - Belarus: # belarus/README.md
+#     -  Before: belarus/before.md
+#     -  Consul: belarus/consul.md
+#   # - Poland: poland/README.md
+#   - Poland: # poland/README.md
+#    - "открытие ИП": poland/jdg/README.md
+#    - "оформление доверенностей пригодных для использования в РБ": poland/notarial-documents/README.md
+#    - "замена водительских прав": poland/driver-license.md
+#   - Links:  links/README.md
+
+markdown_extensions:
+  - toc:
+        permalink: 

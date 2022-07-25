@@ -1,0 +1,10 @@
+{
+  "httpHeaders": [
+    {
+      "urls": ["https://docs.github.com/", "https://siiami.pl/", "https://aplikacja.ceidg.gov.pl/"],
+      "headers": {
+        "Accept-Encoding": "zstd, br, gzip, deflate"
+      }
+    }
+  ]
+}
