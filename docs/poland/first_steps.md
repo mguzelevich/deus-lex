@@ -1,13 +1,4 @@
-# JDG - jednoosobowa działalność gospodarcza
-
-ремарки
-
-- процесс для владельца PBH визы
-- для программиста с оплатой выше 200к PLN в год
-
-для других категорий могут быть особенности
-
-## предварительные шаги
+# предварительные шаги
 
 примерная последовательность для максимально быстрого прохождения квеста:
 
@@ -15,15 +6,10 @@
 - PESEL - получается за 2 дня через консультанта или за примерно час лично
 - банковский счёт - PKO/Santander - оформляется за 20 минут на основании PESEL + паспорт
 - цифровая подпись и подтвержденный профиль - оформляется на основании банковского аккаунта
-- регистрация ИП - делается в личном кабинете за 30 минут
-- получение NIP, REGON - присваиваются автоматически после регистрации ИП в течение 2-3х дней
-- регистрация отдельного банковского счета для ведения ИП - как повезёт, или за 20 минут на месте в банке, или за 20 минут заполнить анкету - результат через день-два. карточка присылается на почту, активируется в приложении
-- регистрация как плательщика ZUS
-- ведение деятельности
 
 а теперь подробнее и с опциями
 
-### обеспечить себя связью
+## обеспечить себя связью
 
 многие личные кабинеты требуют местного номера телефона
 
@@ -45,7 +31,7 @@
 
 реферальный код дающий через месяц бонус размером в месячный пакет 30Gb
 
-> You will get 30 PLN, which you can use to pay for your Plan or return to your card. Download the app, register, enter the code MIKHAILZXYH before choosing a payment method and activate Plan. You can download the app here: https://flexapp.pl/yTJeE83aZcWDZZUz5
+> You will get 30 PLN, which you can use to pay for your Plan or return to your card. Download the app, register, enter the code MIKHAILZXYH before choosing a payment method and activate Plan. You can download the app here: [https://flexapp.pl/yTJeE83aZcWDZZUz5](https://flexapp.pl/yTJeE83aZcWDZZUz5)
 
 пример из жизни - 3 члена семьи:
 
@@ -55,56 +41,9 @@
 - добавил в семью дочерний аккаунт без трафика (esim) `0Gb + Unlim SMS/MMS/calls` - 15 PLN
 - раз в месяц часть трафика с основного аккаунта переводятся на дочерние (т.к. большая часть дня на WiFi - каждому члену семьи достаточно 10 Gb)
 
-### получить pesel
+## получить pesel
 
-вторая жизненно необходимая вещь - PESEL
-
-PESEL оформляется в Ужонде. в зависимости от Ужонда может быть приём только по предварительной записи, по живой очереди, по электронной очереди на месте
-
-в зависимости от Ужонда может потребоваться предварительная запись за 2-3 недели+
-
-на месте можно столкнуться с "синдромом вахтёра" и требованием прописки, договора аренды и т.д.
-
-на самом деле ничего из этого не нужно, и варианта 3:
-
-- бороться и доказывать
-- найти Ужонд где "вахтёр" знает о правильной процедуре
-- молча попытаться выполнить требования
-- заплатить консультантам и конвертировать деньги в экномию нервов и времени
-
-#### личное оформление
-
-в качестве основания для получения PESEL нужно указать "необходимость для оформления Profilu ZAUFANEGO", при заполнении бланка EL/W/1 указав следующую причину:
-
-`ZAŁĄCZNIK NR 1. PKT. 1 ROZPORZĄDZENIA MINISTRA CYFRYZACJI Z DNIA 29 CZERWCA 2020 ROKU W SPRAWIE PROFILU ZAUFANEGO I PODPISU ZAUFANEGO DZ.U.2020 POZ.1194`
-
-неоднократно и успешо на таком основании делали оформление в ужонде района Wawer в Варшаве:
-
-```
-Urząd Dzielnicy Wawer m. st. Warszawy
-
-Żegańska 1, 04-713 Warszawa
-```
-
-Иногда просят указать почему нет мельдунка. Напишите что живёте в хостеле или airbnb и они не мельдуют.
-
-пример заполнения бланка - https://rabota-v-polshe.com/pesel.html
-
-#### оформление через консультантов
-
-консультантов оказывающих такие услуги множество. ценник от 100 до 500 PLN
-
-из проверенных лично в Варшаве:
-
-> Petro Lemishka - tel: +48 722722720
-> 
-> East West Service - Biuro Obsługi Cudzoziemców
-> 
-> Świętokrzyska 20 lok. 426 00-002 Warsaw, Poland
-> 
-> https://www.facebook.com/East.West.Service.Biuro.Obslugi.Cudzoziemcow
-
-говорят по русски, в начале года цена была 150 pln за человека. за семью можно поторговаться и получить скидку
+вторая жизненно необходимая вещь - [PESEL](glossary/pesel.md)
 
 ### оформить счёт в банке
 
@@ -122,7 +61,7 @@ Urząd Dzielnicy Wawer m. st. Warszawy
 
 т.к. swift переводы оуществляются только между счетами в одной валюте - при необходимости таковых переводов нужны счета в соответствующих валютах, но! см. ремарки
 
-#### ремарка 0 - жизнь до получения пластика
+### ремарка 0 - жизнь до получения пластика
 
 краткий ответ - [BLIK](https://blik.com/en)
 
@@ -150,7 +89,7 @@ Urząd Dzielnicy Wawer m. st. Warszawy
 
 снятие наличных посредством blik в банкоматах - без комиссии
 
-#### ремарка 1 - проверенный сетап
+### ремарка 1 - проверенный сетап
 
 - заводится счет в PKO в PLN
 - заводится аккаунт в Revolut - нужны польский номер телефона + селфи + live фотка визы + live фотка паспорта
@@ -165,9 +104,9 @@ Urząd Dzielnicy Wawer m. st. Warszawy
 реферальная ссылка на револют
 
 > Hey managing your money would be so much easier if you had Revolut.
-> Sign up with my link https://revolut.com/referral/mikhaijnxy
+> Sign up with my link [https://revolut.com/referral/mikhaijnxy](https://revolut.com/referral/mikhaijnxy)
 
-#### ремарка 2 - обмен валют
+### ремарка 2 - обмен валют
 
 обмен валюты в польше - это отдельный спорт
 самое невыгодное - оплата в другой валюте или прямые переводы между картами в разных валютах
@@ -176,92 +115,38 @@ Urząd Dzielnicy Wawer m. st. Warszawy
 
 ## оформление доверенного профиля и электронной подписи
 
-необходимы для логина в большинство остальных систем и подписания документов при подаче в различные органы
+доверенный профиль ( [profil zaufany](glossary/profil_zaufany.md) ) и электронная подпись необходимы для логина в большинство остальных систем и подписания документов при подаче в различные органы
 
-https://epuap.gov.pl/wps/portal
+самый простой способ получения - на основании заранее оформленного банковского счета
 
-Zaloguj się
--> profil zaufany
--> Zaloguj się przy pomocy banku lub innego dostawcy
+для этого банковский счет должен оформлятся на основании [PESEL](glossary/pesel.md) и паспорта, а не просто по паспорту
+
+[epuap.gov.pl](https://epuap.gov.pl/wps/portal)
+
+> Zaloguj się
+> -> profil zaufany
+> -> Zaloguj się przy pomocy banku lub innego dostawcy
+
 выбираем свой банк
 
-Wpisz login
-Wpisz hasło
+> Wpisz login
+> Wpisz hasło
 
 заполняем всё что просит
 
-email, повторить email
-подтвердить в приложении банка
+> email, повторить email
+> подтвердить в приложении банка
 
-## проверяем https://pz.gov.pl/
+### проверяем [pz.gov.pl](https://pz.gov.pl/)
 
-## заполняем заявление на регистрацию ип
-
-вынес в отдельные документы
-
-- [заполнение на портале ceidg](jdg-ceidg.md)
-- [заполнение на портале biznes.gov.pl](jdg-biz.md)
-
-## подпись и отправка формы
-
-profile zafany
-sign and send application
-
-## оформить счёт в банке
-
-аналогично открытию личного счета, но понадобятся
-
-- паспорт
-- PESEL
-- реквизиты ИП
-
-потребуется заполнить анкету о бенифициарах, основных заказчиках, планируемом обороте и валютах платежей...
-
-## регистрация как плательщика ZUS - Zaklad Ubiezpieczen Spolecznych
-
-портал PUE - https://www.zus.pl/ - история взаимоотношения и выплат в ZUS
-
-регистрация на основании уже привычного profil zaufany
-
-заполнение заявления
-
-// !TODO ...
-
-## налоги
-
-ZUS = 1457.49 PLN // фиксированная сумма
-// первые 6 месяцев - четверть суммы
-// затем 24 месяца - половина суммы
-
-Brutto = XXX // вход на ип
-B = Brutto - 23% // VAT
-C = B - 19% // на прибыль физ. лиц
-Netto = C - zus
-
-Netto - осталось на руки
-
-`Netto = Brutto*0.6237 - zus`
-`Brutto = (Netto + zus)/0.6234`
+проверяем на сайте что всё завелось и работает
 
 ## прочие сервисы
 
-- https://www.biznes.gov.pl
-- https://epuap.gov.pl/wps/portal
-- https://pz.gov.pl/
-- https://prod.ceidg.gov.pl/
-- https://eskladka.pl/Home
-- https://www.zus.pl/
-- https://zip.nfz.gov.pl/
-
-### nfz - Narodowy Fundusz Zdrowia
-
-портал ZIP — Zintegrowany Informator Pacjenta содержит история лечения и финансирования застрахованных
-
-https://zip.nfz.gov.pl/
-
-## links & docs
-
-- https://mojafirma.org/ip-v-polshe
-- https://pro-poland.com/zus-i-nfz-registracija-onlajn/
-- https://wynagrodzenia.pl/kalkulator-wynagrodzen
-- http://nalog.gov.by/ru/polsha/
+- [www.biznes.gov.pl](https://www.biznes.gov.pl)
+- [epuap.gov.pl/wps/portal](https://epuap.gov.pl/wps/portal)
+- [pz.gov.pl/](https://pz.gov.pl/)
+- [prod.ceidg.gov.pl/](https://prod.ceidg.gov.pl/)
+- [eskladka.pl/Home](https://eskladka.pl/Home)
+- [www.zus.pl/](https://www.zus.pl/)
+- [zip.nfz.gov.pl/](https://zip.nfz.gov.pl/)

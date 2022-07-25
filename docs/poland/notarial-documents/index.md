@@ -18,6 +18,7 @@
 
 - генеральная доверенность [text](power-of-attorney.md) / [pdf](power-of-attorney.pdf)
 - доверенность на дарение недвижимости [text](gift-deed-power-of-attorney.md) / [pdf](gift-deed-power-of-attorney.pdf)
+- согласие супруга на продажу недвижимости [text](agreement.md) / [pdf](agreement.pdf)
 
 ### дарение недвижимости
 
@@ -27,14 +28,14 @@
 
 ## 2. заверение подписи (`poświadczenie podpisu`)
 
-стоит около 25 злотых
+стоит около 25 zł
 
 делается практически у любого нотариуса, но некоторые нотариусы требуют предоставить перевод документа для ознакомения
 
-ниже нотариусы которые заверяли без перевода 
+ниже нотариусы которые заверяли без перевода
 
-- http://www.notariuszwisniewski.pl/
-- https://www.notariuszkuban.pl/
+- [http://www.notariuszwisniewski.pl/](http://www.notariuszwisniewski.pl/)
+- [https://www.notariuszkuban.pl/](https://www.notariuszkuban.pl/)
 
 ## 3. в польском суде заверяем подпись нотариуса
 
@@ -42,13 +43,12 @@
 
 в рабочее время (пн-пт, 07.30-14.30) являемся по адресу:
 
-```
-Biurze Obsługi Interesanta Sądu Okręgowego w Warszawie
-al. „Solidarności”, 127
-```
+> Biurze Obsługi Interesanta Sądu Okręgowego w Warszawie
+> al. „Solidarności”, 127
 
 при себе имеем:
-- внёсок https://bip.warszawa.so.gov.pl/attachments/download/13351
+
+- внёсок [`.doc`](https://bip.warszawa.so.gov.pl/attachments/download/16863) / [`.pdf`](https://bip.warszawa.so.gov.pl/attachments/download/16864)
 - квитанцию об оплате
 - необходимые документы
 
@@ -59,6 +59,7 @@ al. „Solidarności”, 127
 ### внёсок
 
 во внёсок вписывается:
+
 - имя нотариуса (или его помощника) - того чьи подписи стоят на документах
 - сами документы в примерно таком виде `Repertorium A Nr 4614 / 2022`
 
@@ -72,11 +73,9 @@ al. „Solidarności”, 127
 
 оплата переводом на счёт
 
-```
-Rachunek odbiorcy : 21 1030 1508 0000 0005 5000 0070
-Odbiorca : URZĘD MIASTA STOŁECZNEGO WARSZAWA CENTRUM
-Tytuł : OPŁATA ZA UWIERZYTELNIENIE PODPISU REP. A 4614/2022
-```
+> Rachunek odbiorcy : 21 1030 1508 0000 0005 5000 0070
+> Odbiorca : URZĘD MIASTA STOŁECZNEGO WARSZAWA CENTRUM
+> Tytuł : OPŁATA ZA UWIERZYTELNIENIE PODPISU REP. A 4614/2022
 
 если документов несколько - указываем первый и их количество: `Tytuł : OPŁATA ZA UWIERZYTELNIENIE PODPISU REP. A 4614/2022. 3 dokumenty`
 
@@ -88,19 +87,20 @@ Tytuł : OPŁATA ZA UWIERZYTELNIENIE PODPISU REP. A 4614/2022
 
 [описание процедуры](https://www.gov.pl/web/dyplomacja/apostille#korespondencyjnie)
 
-записываемся на портале https://legalizacja.msz.gov.pl/
+записываемся [на портале](https://legalizacja.msz.gov.pl/)
 
 когда открывал я - запись была примерно на 2 недели вперёд
 
 открыв через 2 дня - обнаружил слоты на завтра
 
 при себе имеем:
-- привычный внёсок - https://www.gov.pl/attachment/dce36874-3969-4056-9cd7-4b1c93489b40
+
+- привычный [внёсок](https://www.gov.pl/attachment/dce36874-3969-4056-9cd7-4b1c93489b40)
 - квитанция об оплате
 
 апостили проставиляются на месте. процедура заняла 7 минут :)
 
-### внёсок 
+### внёсок
 
 во внёсок вписал все документы в виде `Dokument notarialne A 4614/2022`
 
@@ -108,11 +108,9 @@ Tytuł : OPŁATA ZA UWIERZYTELNIENIE PODPISU REP. A 4614/2022
 
 переводом на счёт из расчета 60 zł за каждый документ
 
-```
-Rachunek odbiorcy : 21 1030 1508 0000 0005 5000 0070
-Odbiorca : CENTRUM OBSŁUGI PODATNIKA
-Tytuł : OPŁATA SKARBOWA ZA WYDANIE APOSTILLE A 4614/2022, A4615/2022, A4616/2022
-```
+> Rachunek odbiorcy : 21 1030 1508 0000 0005 5000 0070
+> Odbiorca : CENTRUM OBSŁUGI PODATNIKA
+> Tytuł : OPŁATA SKARBOWA ZA WYDANIE APOSTILLE A 4614/2022, A4615/2022, A4616/2022
 
 ## 5. в РБ переводим пункты 2-4 на русский с нотариальным заверением
 

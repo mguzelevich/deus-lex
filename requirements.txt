@@ -1,0 +1,17 @@
+click
+ghp-import
+importlib-metadata
+Jinja2
+Markdown
+MarkupSafe
+mergedeep
+mkdocs
+mkdocs-material
+packaging
+pyparsing
+python-dateutil
+PyYAML
+pyyaml_env_tag
+six
+watchdog
+zipp

@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "be8a4931786a8786",
+    "type": "split",
+    "children": [
+      {
+        "id": "328a6e3829d54110",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5b8b8ba6411b046",
+    "type": "split",
+    "children": [
+      {
+        "id": "c08bcf5225516a4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e90dca70a80d008",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "70aca6fc027117ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5c1c3c677027e49",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14cf9a7584234453",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ad4fa1b3c5afe20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "314ee452dafefe39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1828fab9bc586b1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "104e76b5d97ef203",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5a9f56b5042f041",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "328a6e3829d54110",
+  "lastOpenFiles": [
+    "poland/first_steps.md",
+    "poland/driver-license.md",
+    "poland/notarial-documents/index.md",
+    "poland/jdg/index.md",
+    "belarus/consul.md",
+    "belarus/before.md"
+  ]
+}

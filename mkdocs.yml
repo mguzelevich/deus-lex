@@ -1,0 +1,68 @@
+site_name: "wiki программиста-экспата"
+site_description: "Различные tips/tricks по решению юридических проблем и легализации для релокантов и не только"
+site_url: https://mguzelevich.github.io/deus-lex/
+repo_url: https://github.com/mguzelevich/deus-lex
+
+theme:
+ name: material
+
+nav:
+  - index.md
+  - Poland:
+    - glossary:
+      - nfz: poland/glossary/nfz.md
+      - nip: poland/glossary/nip.md
+      - pesel: poland/glossary/pesel.md
+      - "profil zaufany": poland/glossary/profil_zaufany.md
+      - regon: poland/glossary/regon.md
+      - zus: poland/glossary/zus.md
+    - "первые шаги": poland/first_steps.md
+    - "открытие ИП": poland/jdg/index.md
+    - "оформление доверенностей": poland/notarial-documents/index.md
+    - "замена водительских прав": poland/driver-license.md
+    - "экстренные службы": poland/emergency.md
+  - Belarus:
+    - "рекомендуемые действия перед отъездом": belarus/before.md
+    - "консульский учёт/паспорт PP": belarus/consul.md
+  - patreon.md
+
+markdown_extensions:
+  - toc:
+        permalink: 
+
+# ├── belarus
+# │   ├── before.md
+# │   └── consul.md
+# ├── index.md
+# └── poland
+#     ├── driver-license.md
+#     ├── first_steps.md
+#     ├── glossary
+#     │   ├── nfz.md
+#     │   ├── nip.md
+#     │   ├── pesel.md
+#     │   ├── profil_zaufany.md
+#     │   ├── regon.md
+#     │   └── zus.md
+#     ├── jdg
+#     │   ├── index.md
+#     │   ├── jdg-biz.md
+#     │   └── jdg-ceidg.md
+#     └── notarial-documents
+#         ├── gift-deed-power-of-attorney.md
+#         ├── gift-deed-power-of-attorney.pdf
+#         ├── index.md
+#         ├── power-of-attorney.md
+#         └── power-of-attorney.pdf
+
+# ## Беларусь
+
+# - [рекомендуемые действия перед отъездом](belarus/before.md)
+# - [консульский учёт/паспорт PP](belarus/consul.md)
+
+# ## Польша и её бюрократия
+
+# - [получение PESEL, мельдование, открытие банковских счетов, оформление сим](poland/first_steps.md)
+# - [оформление доверенностей пригодных для использования в РБ](poland/notarial-documents/index.md)
+# - [открытие ИП](poland/jdg/index.md)
+# - [замена водительских прав](poland/driver-license.md)

@@ -1,14 +1,15 @@
-# biznes.gov.pl
+# регистрация посредством CEIDG
 
-## регистрируемся на biznes.gov.pl
+## регистрируемся на CEIDG
 
 (!) WARNING
-```
+
+```text
 сейчас происходит объединение порталов CEIDG и biznes.gov.pl
 сейчас оформлять заявления и вносить можно в обоих порталах, возможно в будщем останется только `biznes.gov.pl`
 ```
 
-https://prod.ceidg.gov.pl/
+[https://prod.ceidg.gov.pl/](https://prod.ceidg.gov.pl/)
 
 -> Zaloguj się
 -> Załóż nowe konto
@@ -25,14 +26,16 @@ https://prod.ceidg.gov.pl/
 
 ## заполняем заявление на регистрацию ип
 
-https://prod.ceidg.gov.pl/
+[https://prod.ceidg.gov.pl/](https://prod.ceidg.gov.pl/)
 
+```text
 -> Zaloguj się
 -> login.gov.pl
 -> profil zaufany
 
 -> register economic activity
 - based on user account
+```
 
 заполняем
 
@@ -57,9 +60,11 @@ https://prod.ceidg.gov.pl/
 `15` - yes
 `03.1` - yes
 `03.2` - данные визы
+
 1. дата выдачи
 2. номер визы
 3. consultate
+
 name of consultate - ... (Minsk)
 
 ### `04` - адрес проживания
@@ -74,24 +79,24 @@ name of consultate - ... (Minsk)
 
 `06.1` - количество сотрудников - 1
 
-`06.2` - вид деятельности 
+`06.2` - вид деятельности
+
 1. основной
 2. дополнительные
 
 подходящие варианты
 
-- 6201Z	Działalność związana z oprogramowaniem
+- 6201Z  Działalność związana z oprogramowaniem
 - 6202Z Działalność związana z doradztwem w zakresie informatyki
 
 со специальностями
 
-- 251990	Pozostali analitycy systemów komputerowych i programiści gdzie indziej niesklasyfikowani
-- 251490	Pozostali programiści aplikacji
-- 251401	Programista aplikacji
-- 251402	Programista aplikacji mobilnych
+- 251990  Pozostali analitycy systemów komputerowych i programiści gdzie indziej niesklasyfikowani
+- 251490  Pozostali programiści aplikacji
+- 251401  Programista aplikacji
+- 251402  Programista aplikacji mobilnych
 
-
-### `07` - данные фирмы - сокращенное название 
+### `07` - данные фирмы - сокращенное название
 
 заполнить в виде `имя фамилия` аналогично `06`
 
@@ -106,6 +111,7 @@ name of consultate - ... (Minsk)
 ### `10` - место осуществления деятельности
 
 `10.1` заполнить аналогично `04` - адрес проживания
+
 `10.2` выбрать `Brak stałego miejsca wykonywania działalności gospodarczej`
 
 ### `11` - skip
@@ -116,13 +122,13 @@ name of consultate - ... (Minsk)
 
 `12.1` - дата начала - аналогично дате начала деятельности
 
-### `17` - Informacja dotycząca naczelnika urzędu skarbowego:	
+### `17` - Informacja dotycząca naczelnika urzędu skarbowego
 
 `Head of the tax office competent for registration of taxpayers`
 
 необходимо найти налоговую согласно места жительства!
 
-для Гданьска и Гдыни: https://www.pomorskie.kas.gov.pl/trzeci-urzad-skarbowy-w-gdansku/organizacja/zasieg-terytorialny
+для Гданьска и Гдыни: [https://www.pomorskie.kas.gov.pl/trzeci-urzad-skarbowy-w-gdansku/organizacja/zasieg-terytorialny](https://www.pomorskie.kas.gov.pl/trzeci-urzad-skarbowy-w-gdansku/organizacja/zasieg-terytorialny)
 
 ### `18` - принцип подачи налоговой отчетности
 
