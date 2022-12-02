@@ -21,4 +21,4 @@ docker-compose up --build
 
 ## для спонсора
 
-[скинуться на пиво автору](https://www.patreon.com/mguzelevich)
+скинуться [на пиво](https://www.patreon.com/mguzelevich) или [кофе](https://www.buymeacoffee.com/mikh) автору
