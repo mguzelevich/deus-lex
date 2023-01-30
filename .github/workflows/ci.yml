@@ -45,5 +45,21 @@ jobs:
           python-version: 3.x
       - run: pip install -r requirements.txt
       - run: mkdocs build --verbose
-      - if: github.ref == 'refs/heads/main'
-        run: mkdocs gh-deploy --force
+      # - if: github.ref == 'refs/heads/main'
+      #   run: mkdocs gh-deploy --force
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./site
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
